@@ -1,0 +1,11 @@
+Fit a bivariate Bayesian p-spline surface to age-specific incidence trends from ALPHA sites.
+
+Relies on HIV dataset created in ../alpha-prepare-data/prepare-data.R
+
+Created by: Jeff Eaton <jeffrey.eaton@imperial.ac.uk> on 2 March 2015
+
+
+version 1: 4 February 2015
+- Uses December 2014 version of ALPHA pooled dataset: ALPHA11Gates_ongoing_ready_yearsplit_agesplit_all_pooled - 141216_vStata12.dta (Note: to be updated)
+- Spline surface log incidence
+- Output: ALPHA-incidence-fits_2015-02-04.pdf
